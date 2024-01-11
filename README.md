@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm from Bangladesh
 * 🧠  I'm learning Java Script
 * 🤝  I'm open to collaborating on Everything that will help me to learn
-<img style="border-radius:20px;" align="right" alt="Coding" width="400px" src="https://paradox.ba/paradox/wp-content/uploads/2019/09/4paradox-animation.gif">
+<img style="border-radius:6%;" align="right" alt="Coding" width="400px" src="https://paradox.ba/paradox/wp-content/uploads/2019/09/4paradox-animation.gif">
 
 <a href="https://www.github.com/Say-my-name04" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Say-my-name04?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
