@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rakibul Islam Emon
 ==========================================================================================================================================
 
-From Bangladesh
+From Bangladesh, 
 like to learn
 <img style="border-radius:6%;" align="right" alt="Coding" width="400px" src="https://paradox.ba/paradox/wp-content/uploads/2019/09/4paradox-animation.gif">
 
