@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/R7f3nbN.gif" width="100%" />
+  <img src="pixel-jeff-mario.gif" width="100%" />
+
 </p>
 
 <h1 align="center">Hi there, I'm <span style="color:#f953c6">Rakibul Islam</span> 👋</h1>
