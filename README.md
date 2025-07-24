@@ -1,31 +1,90 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rakibul Islam Emon
-==========================================================================================================================================
-
-From Bangladesh, 
-like to learn
-<img style="border-radius:6%;" align="right" alt="Coding" width="400px" src="https://paradox.ba/paradox/wp-content/uploads/2019/09/4paradox-animation.gif">
-
-<a href="https://github.com/Ph0Enix04" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Say-my-name04?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/R7f3nbN.gif" width="100%" />
 </p>
 
+<h1 align="center">Hi there, I'm <span style="color:#f953c6">Rakibul Islam</span> 👋</h1>
 
-### Socials
+<p align="center">
+  <b>Developer • Problem Solver • Tech Explorer</b><br>
+  <i>Always curious, always learning.</i>
+</p>
 
-<p align="left"> <a href="https://www.github.com/Say-my-name04" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rakibul-islam-2334a51a4/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+### 🧠 Skills & Stack
 
-<b>My GitHub Stats</b>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,git,linux" />
+</p>
 
-<a href="https://github.com/Ph0Enix04"><img src="https://github-readme-stats.vercel.app/api?username=Say-my-name04&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Say-my-name04's GitHub stats" /></a>
+---
 
-<a href="https://github.com/Ph0Enix04"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Say-my-name04&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🚀 What I Love Doing
 
-<a href="https://github.com/Ph0Enix04"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Say-my-name04&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+- 🧩 Problem Solving in C++ / Java  
+- 🌐 Building responsive web interfaces  
+- ⚙️ Playing with Algorithms & Data Structures  
+- 🔍 Exploring open source & Linux systems  
+- 📚 Learning something new every day!
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHOEBILL04&show_icons=true&theme=tokyonight&hide=prs&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHOEBILL04&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHOEBILL04&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHOEBILL04&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### ✨ Visitor Counter
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SHOEBILL04.visitor-badge" alt="Visitor Count" />
+</p>
+
+---
+
+### 💬 Quote of the Day
+> _“First, solve the problem. Then, write the code.”_ — John Johnson
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rakibul-islam-2334a51a4/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:rakibulislamemon75@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/SHOEBILL04">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<details>
+<summary>📖 My Dev Journey</summary>
+<br>
+
+- 🎓 I’m currently a student with a strong interest in software engineering and competitive programming.  
+- ⚡ I’m focused on sharpening my problem solving skills and contributing to impactful projects.  
+- 🐧 I’m very comfortable working in Linux environments.  
+- 🎯 Always open to feedback, collaboration, and leveling up with the community.
+
+</details>
